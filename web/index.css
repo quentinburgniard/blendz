@@ -2,6 +2,7 @@ body {
   margin: 0;
   background-image: url("https://static.digitalleman.com/blendz/bz.png");
   background-repeat: round;
+  background-color: rgb(235, 235, 235);
   background-size: 100px;
 }
 
